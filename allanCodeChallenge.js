@@ -19,7 +19,6 @@ console.log(x, y);
 */
 
 
-/*
 //Coding Challenge:
 
 var markHeight = prompt("What is Mark's height in metres?: ");
@@ -42,4 +41,3 @@ console.log(markBMI,johnBMI);
 var isMarkBMIGreaterThanJohnBMI = markBMI > johnBMI;
 console.log("Mark's BMI is greater than John's: " + isMarkBMIGreaterThanJohnBMI);
 alert("Mark's BMI is greater than John's: " + isMarkBMIGreaterThanJohnBMI);
-*/
